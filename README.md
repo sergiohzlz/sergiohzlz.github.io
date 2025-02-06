@@ -1,4 +1,4 @@
-# sergiohzlz
+# Sergio's profile
 
 ## General info
 Livin in Mexico city  
