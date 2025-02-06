@@ -5,8 +5,8 @@ Livin in Mexico city
 @sergiohzlz 
 
 ## Education 
-Computer Scientist from Science Faculty - UNAM and
-Masters in Nonlinear Dynamics and Complex Systems at UACM
+- Computer Scientist from Science Faculty - UNAM and
+- Masters in Nonlinear Dynamics and Complex Systems at UACM
 
 Fluent english speaker 
 
@@ -18,18 +18,20 @@ Lecturer at UNAM of subjects such as
   
 
 Data analyst and programmer 
-- Survey analysis at Conacyt
-- 
-- 
+- Survey analysis at Conahcyt
+- Data scientist 
+- Data scientis at Televisa Cine
+- Research assistant
 
 ## Skills
 
 - Linux (bash)
 - Python
-  - Numpy  
+  - Numpy
+- 
+ 
 **Data analysis**
 - Pandas / geopandas
 - Sklearn
 - Pytorch
-- PostgreSQL / MySQL
-- 
+- PostgreSQL / MySQL 
