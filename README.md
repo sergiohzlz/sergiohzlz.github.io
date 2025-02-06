@@ -27,9 +27,12 @@ Fluent english speaker
 
 ## Skills
 
-- Linux (bash)
+- Linux 
+  - awk
+  - bash
 - Python
   - Numpy
+  - Scipy
 - Vi
 - LaTeX
  
