@@ -22,7 +22,7 @@ Fluent english speaker
 ### Data analyst and programmer 
 - Survey analysis at Conahcyt
 - Data scientist 
-- Data scientis at Televisa Cine
+- Data scientist at Videocine
 - Research assistant
 
 ## Skills
