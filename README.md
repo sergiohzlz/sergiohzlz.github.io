@@ -7,17 +7,19 @@ Livin in Mexico city
 ## Education 
 - Computer Scientist from Science Faculty - UNAM and
 - Masters in Nonlinear Dynamics and Complex Systems at UACM
+  Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
 
 Fluent english speaker 
 
 ## Projects and Work
-Lecturer at UNAM of subjects such as
+
+### Lecturer at UNAM of subjects such as
 - Computational genomics (Bioinformatics)
 - Statistichal learning 
 - Artificial Intelligence
   
 
-Data analyst and programmer 
+### Data analyst and programmer 
 - Survey analysis at Conahcyt
 - Data scientist 
 - Data scientis at Televisa Cine
@@ -28,10 +30,11 @@ Data analyst and programmer
 - Linux (bash)
 - Python
   - Numpy
-- 
+- Vi
+- LaTeX
  
-**Data analysis**
+**Data analysis and Machine Learning**
 - Pandas / geopandas
 - Sklearn
-- Pytorch
+- Keras / Pytorch
 - PostgreSQL / MySQL 
