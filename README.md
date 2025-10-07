@@ -1,7 +1,7 @@
 # Sergio's profile
 
 ## General info
-Living in Mexico city  
+Living in Mexico City  
 You can contact me at @sergiohzlz 
 
 ## Education 
@@ -9,7 +9,7 @@ You can contact me at @sergiohzlz
 - Masters in Nonlinear Dynamics and Complex Systems at UACM
   Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
 
-I can survive and comunicate in english, and I wish I could 
+I can survive and comunicate myself in english. And I wish I could 
 be at least that good in french, which is only basic.
 
 ### Courses 
@@ -37,7 +37,7 @@ be at least that good in french, which is only basic.
 - Linux 
   - awk
   - bash scripting
-  - vi
+  - vi (I can exit without consulting SO) / emacs
 - Python
   - Numpy
   - Scipy
