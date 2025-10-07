@@ -1,20 +1,27 @@
 # Sergio's profile
 
 ## General info
-Livin in Mexico city  
-@sergiohzlz 
+Living in Mexico city  
+You can contact me at @sergiohzlz 
 
 ## Education 
 - Computer Scientist from Science Faculty - UNAM and
 - Masters in Nonlinear Dynamics and Complex Systems at UACM
   Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
 
-Fluent english speaker 
+I can survive and comunicate in english, and I wish I could 
+be at least that good in french, which is only basic.
+
+### Courses 
+-  National School of Supercomputing: Times Series Analysis. July 2025.
+-  Workshop on Algorithms in Bioinformatics. August 2025.
+-  School on TDA. December 2015.
 
 ## Projects and Work
 
 ### Lecturer at UNAM of subjects such as
 - Computational genomics (Bioinformatics)
+- Text retrieval - Graph networks 
 - Statistichal learning 
 - Artificial Intelligence
   
@@ -29,15 +36,16 @@ Fluent english speaker
 
 - Linux 
   - awk
-  - bash
+  - bash scripting
+  - vi
 - Python
   - Numpy
   - Scipy
-- Vi
 - LaTeX
  
 **Data analysis and Machine Learning**
 - Pandas / geopandas
 - Sklearn
+- Gensim / spacy 
 - Keras / Pytorch
 - PostgreSQL / MySQL 
