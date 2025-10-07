@@ -9,6 +9,7 @@ You can contact me at @sergiohzlz
 - Masters in Nonlinear Dynamics and Complex Systems at UACM
   Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
 
+### Languages
 I can survive and comunicate myself in english. And I wish I could 
 be at least that good in french, which is only basic.
 
