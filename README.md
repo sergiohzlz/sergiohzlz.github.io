@@ -10,10 +10,10 @@ You can contact me at @sergiohzlz
   Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
 
 ### Languages
-I can survive and comunicate myself in english. And I wish I could 
-be at least that good in french, which is only basic.
+I can comunicate myself in english.
+I only at a basic level in french. 
 
-### Courses 
+### Courses and education
 -  National School of Supercomputing: Times Series Analysis. July 2025.
 -  Workshop on Algorithms in Bioinformatics. August 2025.
 -  School on TDA. December 2015.
@@ -29,12 +29,13 @@ be at least that good in french, which is only basic.
 
 ### Data analyst and programmer 
 - Survey analysis at Conahcyt
-- Data scientist 
+- Self employed as data scientist 
 - Data scientist at Videocine
 - Research assistant
 
 ## Skills
 
+**General computings
 - Linux 
   - awk
   - bash scripting
@@ -42,6 +43,8 @@ be at least that good in french, which is only basic.
 - Python
   - Numpy
   - Scipy
+  - Pandas
+- SQL
 - LaTeX
  
 **Data analysis and Machine Learning**
