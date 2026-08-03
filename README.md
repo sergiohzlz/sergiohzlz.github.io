@@ -1,7 +1,14 @@
 # Sergio's profile
 
 ## Summary
-Computer Scientist (UNAM) with a Master's degree in Nonlinear Dynamics and Complex Systems and more than X years of experience in data science, machine learning, statistical analysis, and scientific computing. Experienced in academia, research, and industry, with work spanning survey analytics, NLP, bioinformatics, recommendation systems, and predictive modeling. Passionate about applying mathematical and computational methods to real-world problems. Based in Mexico City  
+Computer Scientist (UNAM) with a Master's degree in Nonlinear Dynamics 
+and Complex Systems and more than X years of experience in data science,
+machine learning, statistical analysis, and scientific computing. 
+Experienced in academia, research, and industry, with work spanning 
+survey analytics, NLP, bioinformatics, recommendation systems, and predictive 
+modeling. 
+Passionate about applying mathematical and computational methods to
+real-world problems. Based in Mexico City  
 You can contact me at @sergiohzlz.
 
 ## Education 
@@ -14,7 +21,9 @@ Faculty of Science, National Autonomous University of Mexico (UNAM)
 
 ## Languages
 English — Professional working proficiency 
+
 French — Basic 
+
 Spanish — Native
 
 ## Professional Development
