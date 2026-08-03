@@ -16,8 +16,8 @@ You can contact me at @sergiohzlz.
   Universidad Autónoma de la Ciudad de México (UACM)
   Thesis: Travelling Salesman Problem using Discrete Beta Distributions
 
-**B.Sc. in Computer Science**
-Faculty of Science, National Autonomous University of Mexico (UNAM)
+- **B.Sc. in Computer Science**
+  Faculty of Science, National Autonomous University of Mexico (UNAM)
 
 ## Languages
 English — Professional working proficiency 
