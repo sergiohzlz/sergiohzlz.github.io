@@ -1,55 +1,81 @@
 # Sergio's profile
 
-## General info
-Living in Mexico City  
-You can contact me at @sergiohzlz 
+## Summary
+Computer Scientist (UNAM) with a Master's degree in Nonlinear Dynamics and Complex Systems and more than X years of experience in data science, machine learning, statistical analysis, and scientific computing. Experienced in academia, research, and industry, with work spanning survey analytics, NLP, bioinformatics, recommendation systems, and predictive modeling. Passionate about applying mathematical and computational methods to real-world problems. Based in Mexico City  
+You can contact me at @sergiohzlz.
 
 ## Education 
-- Computer Scientist from Science Faculty - UNAM and
-- Masters in Nonlinear Dynamics and Complex Systems at UACM
-  Thesis: Study of the Travelling Salesman Problem with Discrete Beta Distribution
+- **M.Sc. in Nonlinear Dynamics and Complex Systems**
+  Universidad Autónoma de la Ciudad de México (UACM)
+  Thesis: Travelling Salesman Problem using Discrete Beta Distributions
 
-### Languages
-I can comunicate myself in english.
-I only at a basic level in french. 
+**B.Sc. in Computer Science**
+Faculty of Science, National Autonomous University of Mexico (UNAM)
 
-### Courses and education
--  National School of Supercomputing: Times Series Analysis. July 2025.
--  Workshop on Algorithms in Bioinformatics. August 2025.
--  School on TDA. December 2015.
+## Languages
+English — Professional working proficiency 
+French — Basic 
+Spanish — Native
 
-## Projects and Work
+## Professional Development
 
-### Lecturer at UNAM of subjects such as
+National School of Supercomputing — Time Series Analysis (2025)
+Workshop on Algorithms in Bioinformatics (2025)
+School on Topological Data Analysis (2015)
+
+## Work experience
+
+**Survey Design and Data Analyst — CONAHCYT**
+Contributed to the design of a nationwide survey, including questionnaire development, 
+sampling methodology, and data quality considerations.
+Performed statistical analysis and data processing using Python and SQL.
+Produced analytical reports and visualizations to support research findings.
+
+**Data analyst - Videocine**
+Contributed to build model to predict boxoffice of mexican movies 
+Generated reports and visual analysis of bussines datasets
+
+
+### Lecturer 
+
+**Lecturer - Science Faculty, UNAM**
 - Computational genomics (Bioinformatics)
 - Text retrieval - Graph networks 
 - Statistichal learning 
 - Artificial Intelligence
   
-
-### Data analyst and programmer 
-- Survey analysis at Conahcyt
-- Self employed as data scientist 
-- Data scientist at Videocine
-- Research assistant
+**Educational Content Developer - UnADM**
+Designed courses
+- Numerical analysis
+- SQL and database management
+ 
 
 ## Skills
 
-**General computings
-- Linux 
-  - awk
-  - bash scripting
-  - vi (I can exit without consulting SO) / emacs
-- Python
-  - Numpy
-  - Scipy
-  - Pandas
-- SQL
+**Version control**
+- Git
+
+**Text processing**
+- Vi
 - LaTeX
- 
-**Data analysis and Machine Learning**
-- Pandas / geopandas
-- Sklearn
-- Gensim / spacy 
-- Keras / Pytorch
-- PostgreSQL / MySQL 
+
+**Programming**
+- AWK
+- BASH
+- Python
+- Javascript
+
+**Scientific computing**
+- Numpy
+- Pandas /Geopandas
+- SciPy
+
+**Natural Language Processing**
+- Gensim 
+- spacy
+- Pysentiment / Crunchy
+
+**Databases**
+- PostgreSQL
+- MySQL
+- sqlite 
