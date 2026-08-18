@@ -2,7 +2,7 @@
 
 ## Summary
 <p>Computer Scientist (UNAM) with a Master's degree in Nonlinear Dynamics 
-and Complex Systems and more than X years of experience in data science,
+and Complex Systems and more than 10 years of experience in data science,
 machine learning, statistical analysis, and scientific computing. 
 Experienced in academia, research, and industry, with work spanning 
 survey analytics, NLP, bioinformatics, recommendation systems, and predictive 
