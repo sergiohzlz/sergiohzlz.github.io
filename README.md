@@ -44,6 +44,11 @@ Produced analytical reports and visualizations to support research findings.
 Contributed to build model to predict boxoffice of mexican movies 
 Generated reports and visual analysis of bussines datasets
 
+**Data analyst - Datametrix**
+Founding member of personal consulting agency. In charge of 
+different projects, such as web scraping, sales projection model,
+and personal training in applied statistics. 
+
 
 ### Lecturer 
 
