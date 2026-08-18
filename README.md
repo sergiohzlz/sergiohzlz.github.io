@@ -28,9 +28,9 @@ Spanish — Native
 
 ## Professional Development
 
-National School of Supercomputing — Time Series Analysis (2025)\ 
-Workshop on Algorithms in Bioinformatics (2025)\ 
-School on Topological Data Analysis (2015)\ 
+National School of Supercomputing — Time Series Analysis (2025) <br/>
+Workshop on Algorithms in Bioinformatics (2025) <br/>
+School on Topological Data Analysis (2015) <br/>
 
 ## Work experience
 
